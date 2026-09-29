@@ -1,0 +1,10 @@
+
+----------------------------------------
+Date: 29-09-2026 22:47:12
+Customer Name: Abhyudaya Singh
+Consumer ID: Abhyudayasingh
+Units Consumed: 120000000.0
+Energy Charge: Rs. 959998850.00
+Fixed Charge: Rs. 50.00
+Surcharge: Rs. 47999942.50
+Total Bill: Rs. 1007998842.50
